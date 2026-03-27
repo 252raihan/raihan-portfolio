@@ -60,6 +60,10 @@ nav .manu  a{
 
 header{
     background-color: #FFF8F3;
+   
+    background-image: url("../developer.png"), url("../header_bg.png");
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
     padding-top: 50px;
     
 }
